@@ -1,3 +1,5 @@
+# We regret to inform you that some of our code has encountered errors, causing a temporary pause in this project. We are working diligently to fix the issues as soon as possible.
+
 # Fake URL Detector
 
 Welcome to the **Fake URL Detector** GitHub repository. In this project, **Navaneetha Krishnan** had the privilege of leading a talented team of developers who worked collaboratively to create a powerful tool for identifying fake or malicious URLs. While I provided guidance, contributed some code, and took on the role of project leader, the bulk of the development work was carried out by my dedicated teammates.
