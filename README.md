@@ -1,6 +1,6 @@
 # Fake URL Detector
 
-Welcome to the **Fake URL Detector** GitHub repository. In this project, **Navaneetha Krishnan had the privilege of leading a talented team of developers who worked collaboratively to create a powerful tool for identifying fake or malicious URLs. While I provided guidance, contributed some code, and took on the role of project leader, the bulk of the development work was carried out by my dedicated teammates.
+Welcome to the **Fake URL Detector** GitHub repository. In this project, **Navaneetha Krishnan** had the privilege of leading a talented team of developers who worked collaboratively to create a powerful tool for identifying fake or malicious URLs. While I provided guidance, contributed some code, and took on the role of project leader, the bulk of the development work was carried out by my dedicated teammates.
 
 ## Team Members
 
