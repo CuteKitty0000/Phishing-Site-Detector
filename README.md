@@ -21,13 +21,6 @@ Our **Fake URL Detector** is designed to help users identify potentially harmful
 The key features of this project include:
 - [List key features or functionalities of your project.]
 
-## Getting Started
-
-To get started with the **Fake URL Detector**, follow these steps:
-
-1. [Insert step-by-step installation instructions here, if necessary.]
-2. [Provide usage examples or how to use the tool.]
-
 ## Contributing
 
 We welcome contributions from the open-source community to enhance and improve the **Fake URL Detector**. If you're interested in contributing, please follow these guidelines:
@@ -44,7 +37,7 @@ If you encounter any issues or would like to report a bug, please open an issue 
 
 ## License
 
-This project is open-source and released under the [license name and link to license file].
+This project is open-source
 
 ## Acknowledgments
 
