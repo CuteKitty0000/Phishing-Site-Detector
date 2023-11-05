@@ -8,7 +8,7 @@ Welcome to the **Fake URL Detector** GitHub repository. In this project, **Navan
 
 I'd like to acknowledge and give credit to the amazing individuals who made this project possible:
 
-- **Teammate 1 (Very0n88 from Vietnam)**: Very0n88 made significant contributions to the project by implementing the core URL analysis algorithms and handling data preprocessing. Their expertise in data manipulation and algorithm development was crucial in the success of the Fake URL Detector.
+- **Teammate 1 (Veyr0n88 from Vietnam)**: Very0n88 made significant contributions to the project by implementing the core URL analysis algorithms and handling data preprocessing. Their expertise in data manipulation and algorithm development was crucial in the success of the Fake URL Detector.
 
 - **Teammate 2 (Mukesh Mittal, a close friend from school)**: Mukesh Mittal played a crucial role in the project, focusing on the user interface and overall user experience. They were responsible for designing and implementing the front-end of the tool, ensuring that the tool was user-friendly and easy to navigate.
 
